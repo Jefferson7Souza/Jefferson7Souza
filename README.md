@@ -1,8 +1,9 @@
 ### Ola! Eu sou o Jefferson de Souza 👋
+##
 
 - 👨‍💻 Hoje trabalho como freelancer com front-end<br>
 - 🌱 Atualmente estou aprendendo React
-
+ 
 
 <div>
   <a href="https://github.com/Jefferson7Souza">
